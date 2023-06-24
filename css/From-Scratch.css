@@ -1,0 +1,44 @@
+.header{
+    top: 5px;
+    right: 5px;
+    left: 5px;
+    bottom: 250px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-weight: bolder;
+    background-color: lightblue;
+    text-align: top left;
+}
+body{
+    background-color: lightskyblue
+}
+.title {
+    font-size: larger;
+    font-weight: bolder;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: top left;
+    float: left;
+}
+
+.subheader {
+    float: right;
+    text-decoration: none ;
+}
+header {
+    top:5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 1;
+    border-bottom: none 1px #666666;
+}
+.rightmenu{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+    color aquamarine;
+    text-align: right;
+    font-size: large;
+}
+.Image {
+    align-self: center;
+    left: 10px;
+}
